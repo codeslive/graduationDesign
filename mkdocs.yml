@@ -1,9 +1,9 @@
-site_name: 毕业设计
+site_name: 菜谱
 site_description: 
 site_author: 小康
 copyright: Copyright &copy; 2023 小康
-site_url: https://mkdocs.codeslive.top/
-repo_url: https://github.com/codeslive/mkdocs
+site_url: 
+repo_url: 
 repo_name: mkdocs
 edit_uri: ""
 # 主题配置
@@ -118,9 +118,7 @@ extra:
 
 # 文档区
 nav:
-    - 首页: 'index.md'
-    - '项目简介':
-            - 简介 : '简介.md'
+    - 菜谱列表: 'index.md'
 
 
 
